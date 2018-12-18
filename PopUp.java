@@ -1,15 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package MajorScales;
 import javax.swing.*;
 //import java.awt.event.*;
 import java.awt.*;
 /**
  *
- * @author Nonso
+ * @author Nonso Obidike
  */
 public class PopUp extends JFrame {
     final int WINDOW_WIDTH = 300;
